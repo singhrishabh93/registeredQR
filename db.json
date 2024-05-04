@@ -1,0 +1,17 @@
+{
+  "name": "Rishabh Singh",
+  "vehicleName": "MERC BENZ",
+  "vehicleNumber": "ABCD123456",
+  "email": "abc@gmail.com",
+  "contactNumber": 1111111111,
+  "emergencyContact": 2222222222,
+  "bloodType": "AB-",
+  "bloodPressure": "120/56",
+  "allergies": "Total",
+  "medications": "No",
+  "isOrganDonor": true,
+  "medicalNotes": "No",
+  "disease": "Yes",
+  "immunizations": "NO",
+  "QRCategory": "Motor"
+}
